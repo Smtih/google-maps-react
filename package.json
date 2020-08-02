@@ -1,5 +1,5 @@
 {
-  "name": "google-maps-react",
+  "name": "@smtih/google-maps-react",
   "version": "2.0.6",
   "description": "Google maps container",
   "author": "Fullstack.io <us@fullstack.io>",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fullstackreact/google-maps-react.git"
+    "url": "https://github.com/smtih/google-maps-react.git"
   },
   "main": "dist/index.js",
   "files": [
